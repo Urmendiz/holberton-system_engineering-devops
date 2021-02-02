@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod u+x $1
 git add .
-git commit -m "Task shell-permissions "$2""
+git commit -m "Task shell-variables-expansions "$2""
 git push
