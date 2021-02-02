@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod u+x $1
+git add .
+git commit -m "Task shell-redirections "$2""
+git push
